@@ -1,1 +1,2 @@
-# Como-criar-modelos-de-series-temporais-com-o-PROPHET
+# Como criar modelos de _séries temporais_ (time series) com o `PROPHET`
+---
